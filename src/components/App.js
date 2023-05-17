@@ -3,7 +3,9 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <div  id="main">
+      <p> life's good.</p>
+    </div>
   )
 }
 
